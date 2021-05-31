@@ -1,0 +1,5 @@
+print('hello, world!')
+print(1+2)
+print(5*6)
+print('hello' + 'djakjshdha')
+print('khkfjds','lajhfa')
